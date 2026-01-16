@@ -3,20 +3,16 @@
 
 
 .text-secondary{
-  @apply text-[#65758BFF]
+  @apply text-[#65758B]
 }
 .dm-sans-font {
   font-family: "DM Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+  
   
 }
 .inter-font {
   font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+  
 }
 
 .btn-primary{
