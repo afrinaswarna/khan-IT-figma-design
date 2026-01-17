@@ -8,8 +8,7 @@ function App() {
 
   return (
     <>
-     <Hero></Hero>
-     <Feature></Feature>
+     
     </>
   )
 }
